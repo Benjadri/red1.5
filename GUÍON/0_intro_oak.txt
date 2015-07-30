@@ -1,0 +1,17 @@
+[ES UNA ENTREVISTA]
+
+ENTREVISTADOR: Con motivo de la apertura de fronteras con Johto, tenemos con nosotros a una eminencia en el campo de los POKÉMON, el Prof. OAK. Buenas tardes, PROFESOR. Usted está investigando actualmente con el PROF. ELM, ¿En qué se basan sus investigaciones?
+
+OAK: Buenas tardes, hemos estado comprobando si nuestra fauna y la de JOHTO pueden convivir juntas. Esto es necesario porque en JOHTO hay en estos momentos unas especies nunca vistas en KANTO, al menos por ahora. Observen este ejemplar.
+
+[SALE SENTRET DE LA BALL]
+
+OAK: Es un poco el equivalente a nuestro RATTATA. Lo llaman SENTRET.
+
+ENTREVISTADOR: Perfecto, ¿Podría presentarnos a quién va a partir a realizar la primera expedición?
+
+[ELECCIÓN DE PROTAGONISTA]
+
+OAK: Se trata de [PLAYER], que ganó el campeonato hace poco. Su misión será capturar todos los POKÉMON que pueda y de paso podrá participar en los GIMNASIOS de JOHTO para ganar experiencia. Ahora mismo está viajando en barco hacia CIUDAD OLIVO, en JOHTO...
+
+[EMPIEZA EL JUEGO]
