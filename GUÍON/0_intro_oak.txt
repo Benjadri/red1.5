@@ -12,6 +12,6 @@ ENTREVISTADOR: Perfecto, ¿Podría presentarnos a quién va a partir a realizar la 
 
 [ELECCIÓN DE PROTAGONISTA]
 
-OAK: Se trata de [PLAYER], que ganó el campeonato hace poco. Su misión será capturar todos los POKÉMON que pueda y de paso podrá participar en los GIMNASIOS de JOHTO para ganar experiencia. Ahora mismo está viajando en barco hacia CIUDAD OLIVO, en JOHTO...
+OAK: Se trata de [PLAYER], que ganó el campeonato hace poco. Su misión será capturar todos los POKÉMON que pueda y de paso podrá participar en los GIMNASIOS de JOHTO para ganar experiencia. Ahora mismo está viajando en magnetotren hacia CIUDAD OLIVO, en JOHTO...
 
 [EMPIEZA EL JUEGO]
